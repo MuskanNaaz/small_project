@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 30px;
+    width: 100%;
+    background-color: #c7003d;
+   
+}
+.para>p{
+    color: white;
+    margin-left: 15px;
+    font-size: 18px;
+    
+}
+.header>.sub{
+    float: right;
+   
+    
+}
+
+
+.header>.sub>ul{
+    
+    text-decoration: none;
+    
+}
+.header>.sub>ul>a{
+    display: inline;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: -20px;
+    margin-right: 20px;
+    color: white;
+    
+}
+.header2{
+    height: 100px;
+    width: 100%;
+    background-color: #E30047;
+}
+
+.header2>.input-group>.input-group-append{
+    width: 750px;
+    margin-top: 30px;
+    margin-left: 200px
+}
+
